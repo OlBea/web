@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(197, 0, 0);
+    font-size: 100%;
+}
+
+h1 {
+    color:rgb(216, 194, 1);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3.75em;
+    text-align: center;
+}
+
+img {
+    height: 10%;
+    width: 10%;
+}
+
+#bingchilling {
+    text-align: center;
+}
+
+p.rychle {
+    text-align: center;
+    color: rgb(216, 194, 1);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2em;
+    width: 25%;
+    float: left;
+    position: relative;
+    left: 20%;
+}
+
+p.zbesile {
+    text-align: center;
+    color: rgb(216, 194, 1);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2em;
+    width: 25%;
+    float: right;
+    position: relative;
+    right: 20%;
+}
